@@ -1,0 +1,11 @@
+D:\Java Practice\ChadDarby\code\01-spring-boot-overview\05-spring-boot-command-line-demo>mvnw package
+D:\Java Practice\ChadDarby\code\01-spring-boot-overview\05-spring-boot-command-line-demo>java -jar target/05-spring-boot-command-line-demo-0.0.1-SNAPSHOT.jar
+
+
+
+or 
+
+
+
+
+D:\Java Practice\ChadDarby\code\01-spring-boot-overview\05-spring-boot-command-line-demo>mvnw spring-boot:run
