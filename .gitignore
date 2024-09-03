@@ -7,3 +7,5 @@ target/
 /.mvn/
 /mvnw
 mvnw.cmd
+/mvnw/
+/.mvn/wrapper/maven-wrapper.properties
