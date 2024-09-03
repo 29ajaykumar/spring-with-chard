@@ -8,11 +8,11 @@
 		<version>3.3.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>04-setter-injection</groupId>
-	<artifactId>04-setter-injection</artifactId>
+	<groupId>08-bean-scope</groupId>
+	<artifactId>08-bean-scope</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>04-setter-injection</name>
-	<description>04-setter-injection</description>
+	<name>08-bean-scope</name>
+	<description>08-bean-scope</description>
 	<url/>
 	<licenses>
 		<license/>
