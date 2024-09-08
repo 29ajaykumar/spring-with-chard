@@ -1,0 +1,1 @@
+[{"firstName":"Vjay","lastName":"Kumar","email":"ajay@kumar.com","isActive":true,"address":{"state":"UP","city":"Noida","pincode":201009},"languages":["Hindi","ENglish"]},{"firstName":"Vijay","lastName":"Singh","email":"vijay@kumar.com","isActive":true,"address":{"state":"Delhi","city":"New Dwlhi","pincode":200001},"languages":["Hindi","ENglish"]}]
