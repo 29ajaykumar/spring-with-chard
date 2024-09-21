@@ -11,3 +11,4 @@ mvnw.cmd
 /.mvn/wrapper/maven-wrapper.properties
 !**/mvnw/
 !**/.settings/
+!**/.project
